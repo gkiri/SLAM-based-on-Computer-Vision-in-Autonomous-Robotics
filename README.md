@@ -1,4 +1,4 @@
-# SLAM-Algorithms-based-on-Computer-Vision-in-Robotics
+# SLAM-based-on-Computer-Vision-in-Robotics
 It's a repository where I keep updated about SLAM algorithms for state estimation based on computer vision in the Field of Robotics and Autonomous Systems.
 ## SLAM for Drones and Rovers based on Computer Vision:
 ### Monocular camera:
@@ -23,7 +23,21 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 6. GMapping 
 7. ROVIO
 
-## Boards Used on Drone based Computer Vision:
+## Tracking Algorithms for SLAM in OpenCV:
+### Pre-Tracker
+1. Harris Corner Detection
+2. Shi-Tomasi Corner Detector & Good Features to Track
+3. SIFT (Scale-Invariant Feature Transform)
+4. SURF (Speeded-Up Robust Features)
+5. FAST Algorithm for Corner Detection
+6. BRIEF (Binary Robust Independent Elementary Features)
+7. ORB (Oriented FAST and Rotated BRIEF)
+
+### Post-Tracker
+1. Feature Matching (Brute-Force matcher and FLANN based matcher)
+2. Feature Matching + Homography to find Objects
+
+## SLAM with Boards Used on Drone based Computer Vision:
 1. Raspberry PI
 2. Intel NUC
 2. Up Board
