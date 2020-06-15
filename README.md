@@ -55,7 +55,7 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 
 ## Drone Ready-made platform for SLAM with Computer Vision:
 1. [Dji Mavic Air/Pro](https://www.dji.com/mavic)
-2. [Intel Falcon 8+ System](https://www.intel.com/content/www/us/en/products/drones/falcon-8.html}
+2. [Intel Falcon 8+ System](https://www.intel.com/content/www/us/en/products/drones/falcon-8.html)
 2. [Yuneec Typhoon H](https://us.yuneec.com/typhoon-h-overview)
 3. [Intel Aero Drone](https://docs.px4.io/v1.9.0/en/complete_vehicles/intel_aero.html)
 4. [Teal One](https://tealdrones.com/teal-one/)
