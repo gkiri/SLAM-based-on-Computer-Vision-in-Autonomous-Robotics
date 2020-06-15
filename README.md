@@ -9,6 +9,10 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 5. VINS-Mono
 6. SVO+GTSAM
 7. ORB SLAM
+8. Tiny SLAM
+9. Xivo 
+10. SLAM Toolbox
+11. LAMA
 
 ### Stereo camera:
 1. RTAB MAP
@@ -42,10 +46,29 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 11. Omni Bus F4 SD [https://docs.px4.io/v1.9.0/en/flight_controller/omnibus_f4_sd.html]
 12. OcPoC [https://docs.px4.io/v1.9.0/en/flight_controller/ocpoc_zynq.html]
 
+## Mobilephone Platform for SLAM (Tango Supported):
+1. Peanut Phone
+2. Yellowstone Tablet
+3. Intel Realsense smartphone
+4. Lenovo Phab 2 pro
+5. Asus Zenfone AR
+
 ## Monocular camera:
 1. Logitech Webcam C930e
 2. Raspberry PI camera
 3. Arduino camera
+4. Upsquared board camera
 4. Propheese event based camera
+
+## Stereo Camera:
+1. Intel Realsense D435
+2. Intel Realsense D415
+3. ZED 
+
+## Stereo with IMU:
+1. Intel Realsense D435i
+2. Intel Realsense T265
+3. ZED2
+4. ZED Mini
 
 
