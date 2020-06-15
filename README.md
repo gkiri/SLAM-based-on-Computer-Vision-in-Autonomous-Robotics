@@ -1,5 +1,5 @@
 # SLAM-based-on-Computer-Vision-in-Robotics
-It's a repository where I keep updated about SLAM algorithms for state estimation based on computer vision in the Field of Robotics and Autonomous Systems.
+It's a repository where I keep updated about SLAM algorithms for state estimation based on computer vision in the Field of Robotics and Autonomous Navigation.
 ## SLAM for Drones and Rovers based on Computer Vision:
 ### Monocular camera:
 1. SVO+MSF
