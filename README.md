@@ -46,8 +46,8 @@ It's a repository where I keep updated about SLAM algorithms for state estimatio
 5. Jetson TX2
 
 ## AutoPilots available for Computer Vision on Drones & Ground Vehicles:
-1. Pixhawk [https://docs.px4.io/v1.9.0/en/flight_controller/raspberry_pi_navio2.html]
-2. NAVIO2 [https://emlid.com/navio/] 
+1. [Pixhawk](https://docs.px4.io/v1.9.0/en/flight_controller/raspberry_pi_navio2.html)
+2. [NAVIO2](https://emlid.com/navio/) 
 3. QualCom Snapdragon Flight Pro [https://www.intrinsyc.com/qualcomm-flight-pro-development-kit/]
 4. Beaglebone Blue [https://docs.px4.io/v1.9.0/en/flight_controller/beaglebone_blue.html]
 5. OcPoC [https://docs.px4.io/v1.9.0/en/flight_controller/ocpoc_zynq.html]
